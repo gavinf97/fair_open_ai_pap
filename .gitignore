@@ -1,4 +1,6 @@
 # /home/gavinfarrell/PhD_Code/FAIR_OPEN_AI_Paper/.gitignore
+backup*/
+baclup*/*csv
 *csv
 combined_metadata.csv
 backup_metadata_csv
