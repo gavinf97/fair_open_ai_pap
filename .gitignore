@@ -1,0 +1,10 @@
+# /home/gavinfarrell/PhD_Code/FAIR_OPEN_AI_Paper/.gitignore
+combined_metadata.csv
+backup_metadata_csv
+weighted_term_matching_results.csv
+backup_weighted
+backup_metadata_csv
+weighted_term_matching_results.csv
+combined_metadata.csv
+/home/gavinfarrell/PhD_Code/FAIR_OPEN_AI_Paper/combined_metadata.csv
+/home/gavinfarrell/PhD_Code/FAIR_OPEN_AI_Paper/weighted_term_matching_results.csv
